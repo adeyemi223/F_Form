@@ -193,7 +193,7 @@ input{
         width: 100%;
         height: auto;
         padding: 2%;
-        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     }
 
     .form_grid1{
@@ -211,7 +211,6 @@ input{
     }
 
     .form_grid2{
-        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 4px;
         padding: 1rem;
     }
 
