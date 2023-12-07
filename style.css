@@ -109,6 +109,7 @@ section{
     justify-content: center;
     margin: 0 5px;
     background: #fff;
+    border-radius: 6px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
@@ -123,6 +124,7 @@ section{
     height: auto;
     padding: 0.60rem 1rem;
     margin-bottom: 2rem;
+    border-radius: 6px;
 }
 
 input{
