@@ -192,8 +192,8 @@ input{
     .form_container{
         width: 100%;
         height: auto;
+        padding: 2%;
         box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-
     }
 
     .form_grid1{
@@ -208,6 +208,11 @@ input{
 
     .form_grid1 p{
         margin-top: -30px;
+    }
+
+    .form_grid2{
+        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+        padding: 1rem;
     }
 
     .form_grid2 h2{
